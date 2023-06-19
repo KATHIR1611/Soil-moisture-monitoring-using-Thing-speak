@@ -117,7 +117,7 @@ void loop() {
 
 # CIRCUIT DIAGRAM:
 
-![](https://github.com/KATHIR1611/Soil-moisture-monitoring-using-Thing-speak/blob/main/6e50513a-ecfe-4fbf-afad-1c0a5a80a7db.jpg)
+<img src="https://github.com/KATHIR1611/Soil-moisture-monitoring-using-Thing-speak/blob/main/6e50513a-ecfe-4fbf-afad-1c0a5a80a7db.jpg" width=400 height=400>
 
 # OUTPUT:
 
