@@ -127,7 +127,7 @@ void loop() {
 
 # OUTPUT:
 
-![](https://github.com/KATHIR1611/Soil-moisture-monitoring-using-Thing-speak/blob/main/18bf2dd6-ad83-4393-b01c-51f8a1765739.jpg)
+<img src="https://github.com/KATHIR1611/Soil-moisture-monitoring-using-Thing-speak/blob/main/18bf2dd6-ad83-4393-b01c-51f8a1765739.jpg" width=500 height=400>
 
 ![](https://github.com/KATHIR1611/Soil-moisture-monitoring-using-Thing-speak/blob/main/d3379541-666d-49a0-9add-5f2d33c5e01c.jpg)
 
