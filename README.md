@@ -1,9 +1,11 @@
-# Uploading Soil moisture sensor data in Thing Speak cloud
+# EX:09 Uploading Soil moisture sensor data in Thing Speak cloud
+
+Date : 02/06/23
 
 # AIM:
 To upload the Soil moisture senso data in the Thing speak using an ESP32 controller.
 
-# Apparatus required:
+# APPARATUS REQUIRED:
 ESP32 Controller  </br>
 HC-SR04 Ultrasonic sensor module </br>
 Power supply </br>
@@ -61,6 +63,10 @@ Automatically act on your data and communicate using third-party services like T
 
 
 # PROGRAM:
+
+Developed by : Kathirvelan.K
+
+Register number : 212221220026
 ```
 #include <WiFi.h>
 #include "secrets.h"
